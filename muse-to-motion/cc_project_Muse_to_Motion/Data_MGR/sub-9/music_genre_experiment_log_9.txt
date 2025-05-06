@@ -1,0 +1,40 @@
+Experiment Unix Start	1746189902.237
+Baseline Start	0.053
+Baseline End	10.053
+Music Start - Trial 1 - Electronic - Duration 20.00s	12.653
+Music End - Trial 1	32.653
+Post Rest Start - Trial 1	32.659
+Post Rest End - Trial 1	52.659
+Music Start - Trial 2 - Jazz - Duration 20.00s	55.260
+Music End - Trial 2	75.261
+Post Rest Start - Trial 2	75.265
+Post Rest End - Trial 2	95.265
+Music Start - Trial 3 - Classical - Duration 20.00s	97.344
+Music End - Trial 3	117.344
+Post Rest Start - Trial 3	117.348
+Post Rest End - Trial 3	137.348
+Music Start - Trial 4 - Jazz - Duration 20.00s	139.425
+Music End - Trial 4	159.425
+Post Rest Start - Trial 4	159.428
+Post Rest End - Trial 4	179.429
+Music Start - Trial 5 - Jazz - Duration 20.00s	181.504
+Music End - Trial 5	201.504
+Post Rest Start - Trial 5	201.508
+Post Rest End - Trial 5	221.508
+Music Start - Trial 6 - Classical - Duration 20.00s	223.584
+Music End - Trial 6	243.584
+Post Rest Start - Trial 6	243.588
+Post Rest End - Trial 6	263.588
+Music Start - Trial 7 - Electronic - Duration 20.00s	265.643
+Music End - Trial 7	285.643
+Post Rest Start - Trial 7	285.647
+Post Rest End - Trial 7	305.647
+Music Start - Trial 8 - Electronic - Duration 20.00s	307.701
+Music End - Trial 8	327.701
+Post Rest Start - Trial 8	327.705
+Post Rest End - Trial 8	347.705
+Music Start - Trial 9 - Classical - Duration 20.00s	349.781
+Music End - Trial 9	369.781
+Post Rest Start - Trial 9	369.785
+Post Rest End - Trial 9	389.785
+Experiment End	389.797

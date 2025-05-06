@@ -1,0 +1,92 @@
+Experiment Unix Start	1746212728.088
+Baseline Start	0.180
+Baseline End	60.232
+Instruction Start	60.237
+Instruction End	62.238
+Task Start Trial 1: (413 - 33 - 33 - 33 - 33 ...)	62.267
+Task End Trial 1	72.277
+Rest Start Trial 1	72.281
+Rest End Trial 1	82.292
+Task Start Trial 2: (712 - 12 - 12 - 12 - 12 ...)	82.309
+Task End Trial 2	92.318
+Rest Start Trial 2	92.321
+Rest End Trial 2	102.333
+Task Start Trial 3: (621 - 30 - 30 - 30 - 30 ...)	102.350
+Task End Trial 3	112.362
+Rest Start Trial 3	112.364
+Rest End Trial 3	122.377
+Task Start Trial 4: (590 + 16 + 16 + 16 + 16 ...)	122.396
+Task End Trial 4	132.405
+Rest Start Trial 4	132.407
+Rest End Trial 4	142.416
+Task Start Trial 5: (470 + 23 + 23 + 23 + 23 ...)	142.429
+Task End Trial 5	152.441
+Rest Start Trial 5	152.444
+Rest End Trial 5	162.455
+Task Start Trial 6: (620 - 33 - 33 - 33 - 33 ...)	162.471
+Task End Trial 6	172.481
+Rest Start Trial 6	172.483
+Rest End Trial 6	182.492
+Task Start Trial 7: (492 - 31 - 31 - 31 - 31 ...)	182.507
+Task End Trial 7	192.519
+Rest Start Trial 7	192.522
+Rest End Trial 7	202.534
+Task Start Trial 8: (555 - 22 - 22 - 22 - 22 ...)	202.550
+Task End Trial 8	212.560
+Rest Start Trial 8	212.563
+Rest End Trial 8	222.572
+Task Start Trial 9: (805 + 47 + 47 + 47 + 47 ...)	222.590
+Task End Trial 9	232.602
+Rest Start Trial 9	232.605
+Rest End Trial 9	242.620
+Task Start Trial 10: (728 - 41 - 41 - 41 - 41 ...)	242.635
+Task End Trial 10	252.642
+Rest Start Trial 10	252.645
+Rest End Trial 10	262.654
+Task Start Trial 11: (560 - 38 - 38 - 38 - 38 ...)	262.668
+Task End Trial 11	272.679
+Rest Start Trial 11	272.684
+Rest End Trial 11	282.692
+Task Start Trial 12: (927 + 48 + 48 + 48 + 48 ...)	282.706
+Task End Trial 12	292.715
+Rest Start Trial 12	292.718
+Rest End Trial 12	302.728
+Task Start Trial 13: (934 - 35 - 35 - 35 - 35 ...)	302.744
+Task End Trial 13	312.752
+Rest Start Trial 13	312.754
+Rest End Trial 13	322.764
+Task Start Trial 14: (347 + 11 + 11 + 11 + 11 ...)	322.778
+Task End Trial 14	332.787
+Rest Start Trial 14	332.790
+Rest End Trial 14	342.804
+Task Start Trial 15: (454 + 27 + 27 + 27 + 27 ...)	342.819
+Task End Trial 15	352.828
+Rest Start Trial 15	352.831
+Rest End Trial 15	362.839
+Task Start Trial 16: (909 - 45 - 45 - 45 - 45 ...)	362.854
+Task End Trial 16	372.862
+Rest Start Trial 16	372.865
+Rest End Trial 16	382.874
+Task Start Trial 17: (903 - 34 - 34 - 34 - 34 ...)	382.889
+Task End Trial 17	392.898
+Rest Start Trial 17	392.901
+Rest End Trial 17	402.912
+Task Start Trial 18: (435 + 13 + 13 + 13 + 13 ...)	402.927
+Task End Trial 18	412.936
+Rest Start Trial 18	412.939
+Rest End Trial 18	422.947
+Task Start Trial 19: (512 - 46 - 46 - 46 - 46 ...)	422.962
+Task End Trial 19	432.975
+Rest Start Trial 19	432.978
+Rest End Trial 19	442.988
+Task Start Trial 20: (787 - 36 - 36 - 36 - 36 ...)	443.001
+Task End Trial 20	453.015
+Rest Start Trial 20	453.017
+Rest End Trial 20	463.026
+Post-task Rest Start	463.066
+Post-task Rest End	523.125
+Music Start	523.131
+Music End	554.357
+Post-music Rest Start	554.375
+Post-music Rest End	555.376
+Experiment End	555.418

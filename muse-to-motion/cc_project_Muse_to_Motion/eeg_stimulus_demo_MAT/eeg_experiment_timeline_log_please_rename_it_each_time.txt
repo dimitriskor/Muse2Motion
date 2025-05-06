@@ -1,0 +1,7 @@
+Experiment Unix Start	1744191144.189
+Baseline Start	0.096
+Baseline End	60.154
+Instruction Start	60.165
+Instruction End	62.165
+Task Start Trial 1: (373 + 18 + 18 + 18 + 18 ...)	62.200
+Experiment Aborted by User	70.206
